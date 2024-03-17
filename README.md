@@ -11,7 +11,7 @@ The project's goal is to collect the data from the Zomato database, clean the da
 ## Projects Features
 -> Better decision-making with respect to Best-seller and Least-seller<br/>
 -> Category-wise analysis like Pizza category and Date.<br/>
--> Helps to identify the weak area and work on that.
+-> Helps to identify the weak area and work on that.<br/>
 -> Optimize the sales performance.
 
 
