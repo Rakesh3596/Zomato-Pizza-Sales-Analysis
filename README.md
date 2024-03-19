@@ -3,9 +3,9 @@ The project's goal is to collect the data from the Zomato database, clean the da
 ## Tech Stack & Process involved in building the project
 <B> Step 1: <B/> Collect the necessary details about the Bank loan analysis report by the client.<br/>
 <B> Step 2: <B/>(Explore Process) Fletch the data from the client Database to "MS SQL Server".<br/>
-<B> Step 3: <B/>(Load Process) Analyze, Clean, and Extract the required data according to "Key Performance Indicators (KPIs)".<br/>
+<B> Step 3: <B/>(Transform Process) Analyze, Clean, and Extract the required data according to "Key Performance Indicators (KPIs)".<br/>
 <B> Step 4: <B/>Deal with the null, missing, and error data to project requirements using "MS SQL Server or Excel".<br/>
-<B> Step 5: <B/>(Transform Process) Load the clean and transform data into a "Power BI". <br/>
+<B> Step 5: <B/>(Load Process) Load the clean and transform data into a "Power BI". <br/>
 <B> Step 6: <B/> Create a Dashboard according to the requirement in "Power BI".
 
 ## Projects Features
