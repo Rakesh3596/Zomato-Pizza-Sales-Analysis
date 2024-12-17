@@ -1,5 +1,5 @@
 # Zomato-Pizza-Sales-Analysis
-The project's goal is to collect the data from the Zomato database, clean the data, explore the required data with respect to company requirements, and then analyze the Pizza sales with respect to KPIs and create an interactive Dashboard using Power BI.
+The project's goal is to collect the data from the Zomato database, clean the data, explore the required data with respect to company requirements, and then analyze the Pizza sales with respect to KPIs and create an interactive Dashboard using Power BI Tool.
 ## Tech Stack & Process involved in building the project
 <B> Step 1: <B/> Collect the necessary details about the Bank loan analysis report by the client.<br/>
 <B> Step 2: <B/>(Explore Process) Fletch the data from the client Database to "MS SQL Server".<br/>
